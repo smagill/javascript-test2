@@ -3,8 +3,6 @@ let garbage;
 
 garbage++;
 
-sql = 3; // can't reassign a const variable
-
 console.log(garbage);
 
 console.log("2" + "1");  // => "21"
