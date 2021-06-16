@@ -3,6 +3,7 @@ let garbage;
 
 garbage++;
 
+
 console.log(garbage);
 
 console.log("2" + "1");  // => "21"
